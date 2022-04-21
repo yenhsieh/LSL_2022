@@ -4,6 +4,8 @@
 > Through this course, participants will understand R basics, visualization & graph formatting, public (cancer) data retrieving, parallel computing basics, and biological analysis (i.e. differential gene expression analysis followed by gene set enrichment analysis). The course will starts from and heavily rely on *tidyverse* R package, which is a beginner-friendly stepping stone entering R world.
 > All course contents are applied in *ipynb* format and participants may download and try to edit the code for different results.
 
+(http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yenhsieh/LSL_2022/master?urlpath=rstudio)
+
 ## Environment prerequisite
 [Anaconda(optional but recommend)](https://www.anaconda.com/products/distribution), [R](https://www.r-project.org/) or [RStudio](https://www.rstudio.com/)
 > To have R programming environment, direct installation of R/RStudio or a virtural environment like Anaconda containing R/RStudio are both feasible. Installation steps of these items are platform-dependent (Linux/Mac/Windows). 
