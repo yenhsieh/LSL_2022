@@ -1,6 +1,15 @@
 name: R 4.0
 channels:
   - conda-forge
+  - bioconda
 dependencies:
   - r-base=4.0
-  - r-tidyverse
+  - r-tidyverse=1.3.1
+  - r-palmerpenguins
+  - r-ggpubr=0.4.0
+  - r-ggsci=2.9
+  - r-ucscxenatools=1.4.6
+  - bioconductor-edger=3.32.1
+  - bioconductor-org.hs.eg.db=3.12.0
+  - bioconductor-clusterprofiler=3.18.1
+  - bioconductor-enrichplot=1.10.2
