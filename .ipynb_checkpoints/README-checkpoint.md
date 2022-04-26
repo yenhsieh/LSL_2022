@@ -10,7 +10,7 @@
     
 ## Environment prerequisite
 [Anaconda(optional but recommend)](https://www.anaconda.com/products/distribution), [R](https://www.r-project.org/) or [RStudio](https://www.rstudio.com/)
-> To have R programming environment, direct installation of R/RStudio or a virtural environment like Anaconda containing R/RStudio are both feasible. Installation steps of these items are platform-dependent (Linux/Mac/Windows). 
+> To have R programming environment, direct installatio†n of R/RStudio or a virtural environment like Anaconda containing R/RStudio are both feasible. Installation steps of these items are platform-dependent (Linux/Mac/Windows). 
 
 ## Package requirements (uncomment to install if you don't have packages installed)
 ```r
